@@ -1,8 +1,8 @@
 #######################################################################
-Author: Dylan Schacht (deadhead)
-Date: June 19, 2015
+Author: Darren Young (dazzay)
+Date: June 22, 2015
 Release: v0.1
-Discription: Script used to pull up arch wiki pages quickly from the terminal.
+Description: This is a fork of an Arch script created by deadhead420 to pull up the Manjaro wiki pages quickly from the terminal.
 
 NOTE:
 For this script to work it requires lynx as a dependency.
@@ -26,7 +26,8 @@ wiki <search args here>
 example:
 wiki ssh
 wiki lamp
-wiki Arch Build System
+wiki Manjaro Build System
 
-This will pull up your search on the arch wiki and display it to you in lynx
-Enjoy this program, will update frequently.
+This will pull up your search on the Manjaro wiki and display it to you in the terminal
+
+Thanks to deadhead420 for allowing me to port this for manjaro
