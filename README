@@ -20,7 +20,7 @@ example:
 sudo cp wiki.sh /usr/local/bin/wiki
 
 Once you have copied the script to your path you can simply run wiki from anywhere
-on the command line to pull up the arch wiki. To search pass an argument to the command.
+on the command line to pull up the manjaro wiki. To search pass an argument to the command.
 wiki <search args here>
 
 example:
