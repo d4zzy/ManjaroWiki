@@ -3,13 +3,13 @@
 if [ "--help" == "$1" ]; then
 	this=`basename $0`
 	echo
-	echo "Usage: $this archwiki page name"
+	echo "Usage: $this manjarowiki page name"
 	echo
-	echo "  where archwiki page name is title of page on wiki.archlinux.org"
+	echo "  where manjarowiki page name is title of page on wiki.archlinux.org"
 	echo
 	echo "Examples:"
 	echo "  $this ssh"
-	echo "  $this the arch way"
+	echo "  $this Enjoy the simplicity"
 	echo "  $this beginners guide"
 	echo
 	exit 0
